@@ -1,7 +1,7 @@
 # Hello..!!
 <!-- # Hello..!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21"> -->
 
-<h3><i>Spare some time to take a look at my <a>portfolio</a>!</i></h3>
+<i>Spare some time to take a look at my [portfolio!](https://meghahole.github.io/CIS641-HW2-hole/)
 
 <a href="https://www.linkedin.com/in/megha-hole-272b71a8/"><img src="images\Propic.jpeg" align="right" height="300"></a>
 
